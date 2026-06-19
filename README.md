@@ -10,4 +10,4 @@ I am looking to collaborate on web development projects.
 You can reach me at: rahulshaji520@gmail.com
 
 
-https://rahulshajii.github.io/rahulshaji-portfolio/
+https://rahulshaji-portfolio.netlify.app/
