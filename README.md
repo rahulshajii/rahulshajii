@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Rahul%20Shaji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Web%20Developer%20%7C%20ML%20Enthusiast&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Rahul%20Shaji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=60&descSize=18" alt="header" />
 
 <a href="https://github.com/rahulshajii">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+web+apps+with+PHP+%26+MySQL;Exploring+Machine+Learning+with+Python;Learning+the+MERN+stack;Open+to+collaborating+on+web+projects" alt="Typing SVG" />
@@ -58,29 +58,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Core Concepts:** OOP • Data Structures & Algorithms (Basics) • Debugging & Troubleshooting • SDLC • Agile Methodology
-## 📜 Certifications
 
-- 🐍 **The Joy of Computing Using Python**: NPTEL, IIT Madras
-- ☁️ **Cloud Computing**: NPTEL, IIT Kharagpur
-- 🤖 **AI Certification Exam**: Unique World Robotics, Marian Academy of Management Studies
-- 🌐 **Full-Stack MERN Application Development**: GP3 Cloud Innovations (OPC) Pvt Ltd, 2026
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rahulshajii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulshajii&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulshajii&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahulshajii&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
