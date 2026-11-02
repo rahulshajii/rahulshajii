@@ -28,8 +28,6 @@
 - 🤝 Looking to **collaborate on web development projects**
 - 📫 Reach me at: **rahulshaji520@gmail.com**
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
