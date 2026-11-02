@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rahulshajii&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://rahulshajii.github.io/rahulshaji-portfolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulshaji520@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?keywords=Rahul%20Shaji)
