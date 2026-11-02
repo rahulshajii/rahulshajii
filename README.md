@@ -58,18 +58,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Core Concepts:** OOP • Data Structures & Algorithms (Basics) • Debugging & Troubleshooting • SDLC • Agile Methodology
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🚗 **Vintage Car Hub** | A scalable vintage car booking platform built following SDLC principles, with backend logic, testing, and smooth data handling. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| 🧬 **Thyroid Classification using ML** | Machine learning models for predictive modeling, evaluated and optimized, then deployed with Flask for real-time predictions. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-ML-FF6F00?logo=scikitlearn&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) |
-
----
-
 ## 📜 Certifications
 
 - 🐍 **The Joy of Computing Using Python**: NPTEL, IIT Madras
